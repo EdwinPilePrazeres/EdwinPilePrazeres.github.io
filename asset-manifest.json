@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/css/main.62dbdbab.chunk.css",
+    "main.js": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/main.f68eac86.chunk.js",
+    "main.js.map": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/main.f68eac86.chunk.js.map",
+    "runtime-main.js": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/runtime-main.a27314ca.js",
+    "runtime-main.js.map": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/runtime-main.a27314ca.js.map",
+    "static/js/2.a6c3d1b1.chunk.js": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/2.a6c3d1b1.chunk.js",
+    "static/js/2.a6c3d1b1.chunk.js.map": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/2.a6c3d1b1.chunk.js.map",
+    "index.html": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/index.html",
+    "static/css/main.62dbdbab.chunk.css.map": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/css/main.62dbdbab.chunk.css.map",
+    "static/js/2.a6c3d1b1.chunk.js.LICENSE.txt": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/js/2.a6c3d1b1.chunk.js.LICENSE.txt",
+    "static/media/4.e822fa08.jpg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/4.e822fa08.jpg",
+    "static/media/api_weather.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/api_weather.a4ec0bd7.PNG",
+    "static/media/budget_tool.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/budget_tool.593d4ead.PNG",
+    "static/media/burger.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/burger.d553d66c.PNG",
+    "static/media/complete_app.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/complete_app.45d95f54.PNG",
+    "static/media/diamond.png": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/diamond.aa16a79e.png",
+    "static/media/door_looked.jpg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/door_looked.5ea51463.jpg",
+    "static/media/f14.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/f14.538bcb5c.PNG",
+    "static/media/favorite.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/favorite.a6923f4c.PNG",
+    "static/media/keys.jpg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/keys.84be26f6.jpg",
+    "static/media/mustang.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/mustang.01b8c1d2.PNG",
+    "static/media/planets.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/planets.9e58952c.PNG",
+    "static/media/react_sheets.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/react_sheets.ffa1d162.PNG",
+    "static/media/up_project.PNG": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/up_project.fcb51cad.PNG",
+    "static/media/wave_black.6287edda.svg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/wave_black.6287edda.svg",
+    "static/media/wave_gray.d0b931b2.svg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/wave_gray.d0b931b2.svg",
+    "static/media/wave_white.9c4a2bc8.svg": "/EdwinPilePrazeres/EdwinPilePrazeres.github.io.git/static/media/wave_white.9c4a2bc8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27314ca.js",
+    "static/js/2.a6c3d1b1.chunk.js",
+    "static/css/main.62dbdbab.chunk.css",
+    "static/js/main.f68eac86.chunk.js"
+  ]
+}
